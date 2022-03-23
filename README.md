@@ -7,21 +7,14 @@ I am fullstack web developer, but sometimes have syndrome of designer.
 ### 💻 Frontend
 * Figma, HTML, CSS (SASS/SCSS/LESS, BEM) (adaptive, perfet-pixel layout) 
 * Javascript ES5, ES6+, Typescript
-* React
-  * Custom Hooks
-  * Context API
-  * react-icons
-  * react-helmet
+* React (Custom Hooks, Context API, react-icons, react-helmet)
 * Redux
 ### 🖥️ Backend
 * Express, Node.js
 * NGINX, Linux (Ubuntu) deployment
-* MongoDB
+* MongoDB (mongoose)
 ### ⌨️ APIs
-* Discord
-* Telegram
-* Vkontakte
-* Instagram
+* Discord / Instagram / Telegram / Vkontakte API
 
 
 
