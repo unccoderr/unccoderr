@@ -4,6 +4,7 @@ I am fullstack web developer, but sometimes have syndrome of designer. I strongl
 
 ## Tech stack
 
+
 ### 💻 Frontend
 * Figma, HTML, CSS (SASS, BEM) adaptive, perfet-pixel layout
 * Javascript / Typescript (ES5, ES6+)
@@ -16,11 +17,12 @@ I am fullstack web developer, but sometimes have syndrome of designer. I strongl
 ### ⌨️ APIs
 * Discord / Instagram / Telegram / Vkontakte API
 
+
 ## Projects
 
 ### Personal portfolio website [unccoder.ru](https://unccoder.ru)
-    Used stack: Figma, HTML, CSS, React
-    New features I used: changing theme and localization 
+> Used stack: Figma, HTML, CSS, React
+> New features I used: changing theme and localization 
 
 
 
