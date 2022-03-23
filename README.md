@@ -16,6 +16,11 @@ I am fullstack web developer, but sometimes have syndrome of designer. I strongl
 ### ⌨️ APIs
 * Discord / Instagram / Telegram / Vkontakte API
 
+## Projects
+
+> 💡 Personal portfolio [website](https://unccoder.ru)
+> Figma, HTML, CSS, React
+
 
 
 
