@@ -1,12 +1,12 @@
 # 👋 Hi, I’m [unccoderr](https://unccoder.ru)
 
-I am fullstack web developer, but sometimes have syndrome of designer.
+I am fullstack web developer, but sometimes have syndrome of designer. I strongly belive that only web and IT technologies can optimize people's dayly routine. And I want to be somebody, who does it.
 
 ## Tech stack
 
 ### 💻 Frontend
 * Figma, HTML, CSS (SASS, BEM) adaptive, perfet-pixel layout
-* Javascript ES5, ES6+, Typescript
+* Javascript / Typescript (ES5, ES6+)
 * React (Custom Hooks, Context API, react-icons, react-helmet)
 * Redux
 ### 🖥️ Backend
