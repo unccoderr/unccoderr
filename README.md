@@ -21,8 +21,7 @@ I am fullstack web developer, but sometimes have syndrome of designer. I strongl
 ## Projects
 
 ### Personal portfolio website [unccoder.ru](https://unccoder.ru)
-Used stack: Figma, HTML, CSS, React\n
-New features I developed: changing theme and localization 
+> React / Typescript static website with functionality of changing theme and localization 
 
 
 
