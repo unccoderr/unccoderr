@@ -21,5 +21,4 @@
   *  Instagram
   *  Telegram
   *  Vk
-*  Weather APIs
-  * Openweathermap  
+*  Weather API - Openweathermap
