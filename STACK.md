@@ -16,9 +16,5 @@
 
 ### ⌨️ APIs
 
-* Social network APIs
-  *  Discord
-  *  Instagram
-  *  Telegram
-  *  Vk
-*  Weather API - Openweathermap
+* Social network APIs (Discord, Instagram, Telegram, Vk)
+*  Weather API (Openweathermap)
