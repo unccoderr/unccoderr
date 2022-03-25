@@ -20,9 +20,11 @@ I am fullstack web developer, but sometimes have syndrome of designer. I strongl
 
 ## Projects
 
-> ### Personal portfolio website [unccoder.ru](https://unccoder.ru)
+> ### [Personal portfolio website](https://unccoder.ru)
 > React / Typescript static website with functionality of changing theme and localization 
 
+> ### [Telegram weather bot](https://t.me/awersome_weather_bot)
+> Typescript / node-telegram-bot-api / openweathermap-ts API
 
 
 
