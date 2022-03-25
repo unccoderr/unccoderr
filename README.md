@@ -20,8 +20,8 @@ I am fullstack web developer, but sometimes have syndrome of designer. I strongl
 
 ## Projects
 
-### Personal portfolio website [unccoder.ru](https://unccoder.ru)
-React / Typescript static website with functionality of changing theme and localization 
+> ### Personal portfolio website [unccoder.ru](https://unccoder.ru)
+> React / Typescript static website with functionality of changing theme and localization 
 
 
 
