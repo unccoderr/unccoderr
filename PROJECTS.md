@@ -1,15 +1,15 @@
 # 🗃️ My projects
 
 
-## 🤖 Website
+## 🤖 Websites
 
 > ### 🔖 Personal portfolio website
 > React / Typescript static website with functionality of changing theme and localization 
 > [GitHub](https://github.com/unccoderr/unccoder.ru) [Website](https://unccoder.ru)
 
-> ### 🔖 Intools web version
+> ### 🔖 InTools web version
 > React / Typescript / instagram API
-> [GitHub](https://github.com/unccoderr/intools.client)
+> [GitHub](https://github.com/unccoderr/intools.client) [InTools](https://intools.pro)
 
 ## 🌐 Bots
 
