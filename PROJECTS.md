@@ -8,7 +8,7 @@
 > [GitHub](https://github.com/unccoderr/unccoder.ru) [Website](https://unccoder.ru)
 
 > ### 🔖 InTools web version
-> React / Typescript / instagram API
+> React / Typescript / Instagram API
 > [GitHub](https://github.com/unccoderr/intools.client) [Website](https://intools.pro)
 
 ## 🌐 Bots
