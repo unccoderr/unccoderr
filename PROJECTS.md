@@ -9,7 +9,7 @@
 
 > ### 🔖 InTools web version
 > React / Typescript / instagram API
-> [GitHub](https://github.com/unccoderr/intools.client) [InTools](https://intools.pro)
+> [GitHub](https://github.com/unccoderr/intools.client) [Website](https://intools.pro)
 
 ## 🌐 Bots
 
