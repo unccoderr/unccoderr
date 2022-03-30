@@ -1,7 +1,7 @@
 # 🗃️ My projects
 
 
-## 🤖 Websites
+## 🌐 Websites
 
 > ### 🔖 Personal portfolio website
 > React / Typescript static website with functionality of changing theme and localization 
@@ -11,7 +11,7 @@
 > React / Typescript / Instagram API
 > [GitHub](https://github.com/unccoderr/intools.client) [Website](https://intools.pro)
 
-## 🌐 Bots
+## 🤖 Bots
 
 > ### 🔖 [Telegram weather bot](https://t.me/awersome_weather_bot)
 > Typescript / node-telegram-bot-api / openweathermap-ts API
