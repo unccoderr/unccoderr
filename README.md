@@ -1,5 +1,5 @@
-# 👋 Hi, I’m [unccoderr](https://unccoder.ru)
+# 👋 Hi, I’m [Roman](https://www.linkedin.com/in/rmitrushonkov/)
 
-I am fullstack web developer, but sometimes have syndrome of designer. I strongly belive that only web and IT technologies can optimize people's dayly routine. And I want to be somebody, who does it.
+Senior Backend Engineer with ~5 years of experience designing and building high-load distributed systems and microservices. Delivered cross-chain transaction engines for 300k users and geo-distributed IoT platforms processing 5k msgs/sec.
 
-[Tech stack](https://github.com/unccoderr/unccoderr/blob/main/STACK.md) | [Projects](https://github.com/unccoderr/unccoderr/blob/main/PROJECTS.md)
+Skilled in Node.js, TypeScript, NestJS, Docker, Kubernetes, Prometheus, and Grafana. Able to work both independently and collaboratively across multiple teams. Strong track record in technical leadership, mentoring, and driving architectural decisions from concept to production.
