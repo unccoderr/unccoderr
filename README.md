@@ -1,5 +1,19 @@
-# 👋 Hi, I’m [Roman](https://www.linkedin.com/in/rmitrushonkov/)
+# Roman Mitrushonkov
 
-Senior Backend Engineer with ~5 years of experience designing and building high-load distributed systems and microservices. Delivered cross-chain transaction engines for 300k users and geo-distributed IoT platforms processing 5k msgs/sec.
+Senior Backend Engineer focused on distributed systems, microservices, and event-driven platforms.
 
-Skilled in Node.js, TypeScript, NestJS, Docker, Kubernetes, Prometheus, and Grafana. Able to work both independently and collaboratively across multiple teams. Strong track record in technical leadership, mentoring, and driving architectural decisions from concept to production.
+## Tech
+Node.js, TypeScript, NestJS, Go, Kafka, NATS, RabbitMQ, MQTT, PostgreSQL, Redis, ClickHouse, Docker, Kubernetes, Prometheus, Grafana
+
+## Highlights
+- Built systems serving 300K+ users
+- Worked on platforms across 500+ blockchain networks
+- Designed pipelines handling ~5K messages/sec
+- Built backend systems for 10K+ connected IoT devices
+
+## Focus
+I’m most interested in backend architecture, reliability, observability, and scalable event-driven systems.
+
+## Links
+- LinkedIn: https://www.linkedin.com/in/rmitrushonkov/
+- Email: unccoder@icloud.com
