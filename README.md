@@ -1,19 +1,32 @@
 # Roman Mitrushonkov
 
-Senior Backend Engineer focused on distributed systems, microservices, and event-driven platforms.
+Senior Backend Engineer building distributed systems, backend platforms, and event-driven services for high-load fintech, crypto, and IoT products.
 
-## Tech
-Node.js, TypeScript, NestJS, Go, Kafka, NATS, RabbitMQ, MQTT, PostgreSQL, Redis, ClickHouse, Docker, Kubernetes, Prometheus, Grafana
+I work across system design and delivery: service boundaries, asynchronous workflows, data pipelines, observability, and production infrastructure.
 
-## Highlights
-- Built systems serving 300K+ users
-- Worked on platforms across 500+ blockchain networks
-- Designed pipelines handling ~5K messages/sec
-- Built backend systems for 10K+ connected IoT devices
+## Selected impact
 
-## Focus
-I’m most interested in backend architecture, reliability, observability, and scalable event-driven systems.
+- Built backend systems serving **300K+ users** across **500+ EVM and non-EVM networks**.
+- Designed and operated **10+ microservices** using CQRS, Saga, service contracts, and multiple data stores.
+- Improved a liquidity-data page from up to **~25 seconds** to **~400 ms** by introducing daily precomputed aggregates.
+- Built IoT backend infrastructure for **10K+ connected devices** across EU, US, and RU clusters; designed event pipelines handling **~5K messages/sec**.
 
-## Links
-- LinkedIn: https://www.linkedin.com/in/rmitrushonkov/
-- Email: unccoder@icloud.com
+## Core expertise
+
+**Backend & distributed systems**  
+Node.js, TypeScript, NestJS, Go, microservices, CQRS, Saga, event-driven architecture
+
+**Messaging & data**  
+Kafka, NATS, RabbitMQ, MQTT, PostgreSQL, Redis, ClickHouse
+
+**Platform & reliability**  
+Docker, Kubernetes, CI/CD, Prometheus, Grafana, Loki
+
+## What I care about
+
+Clear service boundaries, reliable asynchronous processing, useful observability, and systems that stay understandable as they scale.
+
+## Contact
+
+- LinkedIn: [roman-mitrushonkov](https://www.linkedin.com/in/roman-mitrushonkov/)
+- Email: [unccoder@icloud.com](mailto:unccoder@icloud.com)
