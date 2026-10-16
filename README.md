@@ -30,3 +30,4 @@ Clear service boundaries, reliable asynchronous processing, useful observability
 
 - LinkedIn: [roman-mitrushonkov](https://www.linkedin.com/in/roman-mitrushonkov/)
 - Email: [r.mitrushonkov@outlook.com](mailto:r.mitrushonkov@outlook.com)
+- WhatsApp: [+7 (778) 765 84 60](https://wa.me/77787658460)
