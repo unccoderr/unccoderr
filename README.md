@@ -1,8 +1,11 @@
 # Roman Mitrushonkov
 
-Senior Backend Engineer building distributed systems, backend platforms, and event-driven services for high-load fintech, crypto, and IoT products.
-
-I work across system design and delivery: service boundaries, asynchronous workflows, data pipelines, observability, and production infrastructure.
+> **Senior Backend Engineer**  
+> Distributed systems · backend platforms · event-driven architecture  
+>
+> I design and deliver high-load backend systems for fintech, crypto, and IoT products — from service boundaries and asynchronous workflows to production observability and infrastructure.  
+>
+> **Focus:** scalable data pipelines, reliable messaging, and systems that remain understandable as they grow.
 
 ## Selected impact
 
@@ -13,14 +16,11 @@ I work across system design and delivery: service boundaries, asynchronous workf
 
 ## Core expertise
 
-**Backend & distributed systems**  
-Node.js, TypeScript, NestJS, Go, microservices, CQRS, Saga, event-driven architecture
-
-**Messaging & data**  
-Kafka, NATS, RabbitMQ, MQTT, PostgreSQL, Redis, ClickHouse
-
-**Platform & reliability**  
-Docker, Kubernetes, CI/CD, Prometheus, Grafana, Loki
+| Area | Technologies & practices |
+| --- | --- |
+| Backend & distributed systems | Node.js, TypeScript, NestJS, Go, microservices, CQRS, Saga, event-driven architecture |
+| Messaging & data | Kafka, NATS, RabbitMQ, MQTT, PostgreSQL, Redis, ClickHouse |
+| Platform & reliability | Docker, Kubernetes, CI/CD, Prometheus, Grafana, Loki |
 
 ## What I care about
 
@@ -29,4 +29,4 @@ Clear service boundaries, reliable asynchronous processing, useful observability
 ## Contact
 
 - LinkedIn: [roman-mitrushonkov](https://www.linkedin.com/in/roman-mitrushonkov/)
-- Email: [unccoder@icloud.com](mailto:unccoder@icloud.com)
+- Email: [r.mitrushonkov@outlook.com](mailto:r.mitrushonkov@outlook.com)
